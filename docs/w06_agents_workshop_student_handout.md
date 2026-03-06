@@ -12,6 +12,13 @@ You will delegate a data analysis task to an agent, then you will check whether 
 2) Fork the workshop repo.  
 3) Open Codex and connect to your repo
 
+github.com/shanelindsay/agents_workshop/
+https://chatgpt.com/codex
+Google Form:
+https://forms.gle/5ktjhDVrqCdrTeM99
+
+
+
 ## Part 2 Write your first `AGENTS.md`  
 In the root of the repo, open `AGENTS.md`. Add content under these headings.
 
@@ -73,13 +80,18 @@ Start from scratch asking for a new analysis - ask the agent to follow `SPEC.md`
 Then repeat  
 - Your self report card  
 - A quick peer audit if time
-
+- 
 ## Debrief  
 Be ready to answer  
 - What changed between Round 1 and Round 2  
 - What constraints mattered most?
 - What did you trust too quickly?
 - What did you verify, and how?
+
+## Part 8 Round 3 Tweak
+- Now we can ask for minor changes rather starting from scratch
+
+
 
 ## Part 8 Ask for changes   
 Now ask for changes from Codex, rather than starting from scratch. How can you make this analysis better?
